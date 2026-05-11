@@ -1,6 +1,6 @@
 cask "windowmanager" do
-  version "0.4.0"
-  sha256 "69fe06c2c7754dd781f5fa603835d34bfc7f21ffd4c8f066034ac2d34f2b55ad"
+  version "0.4.1"
+  sha256 "e8fdb135f729c2deee8364323b87387050356469632362c35e93ae9141281f69"
 
   url "https://github.com/fhntvv/window-manager/releases/download/v#{version}/WindowManager-#{version}.dmg"
   name "WindowManager"
